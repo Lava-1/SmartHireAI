@@ -1,0 +1,6 @@
+{
+  "name": "SmartHire AI",
+  "description": "AI-powered adaptive virtual interview simulator with real-time emotion & focus tracking, speech transcription, live coding Big-O analysis, and multi-round company evaluations.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
